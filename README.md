@@ -1,6 +1,6 @@
 # Trespassing Duck Shooter
 
-This project attemps to detect images of ducks. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle and non ducks from mini-imagenet on kaggle.
+This project attemps to detect images of ducks. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle, and not_ducks from mini-imagenet on kaggle.
 
 ![duck](https://github.com/TacoDoge1/TrespassingDuckShooterRoughDraft/assets/142443743/f3464960-d0a6-4b14-89cf-10e3958cd975)
 
