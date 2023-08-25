@@ -1,12 +1,12 @@
 # Trespassing Duck Shooter
 
-This project attemps to detect images of ducks. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle, and not_ducks from mini-imagenet on kaggle.
+This project attemps to detect images of ducks. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle, and I got images for not_ducks from mini-imagenet on kaggle.
 
 ![duck](https://github.com/TacoDoge1/TrespassingDuckShooterRoughDraft/assets/142443743/f3464960-d0a6-4b14-89cf-10e3958cd975)
 
 ## The Algorithm
 
-Despite 4 project restarts, it does not work. Every single image leaves the algoritm sure that the image is not a duck.
+Unfortunately, after 4 project restarts, I still could not get my project to detect ducks. Every single image i run inference on leaves the algoritm sure that the image is not_duck.
 
 ## Running this project
 
