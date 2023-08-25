@@ -6,7 +6,7 @@ This project attemps to detect images of ducks. It used the resnet18 classificat
 
 ## The Algorithm
 
-Unfortunately, after 4 project restarts, I still could not get my project to detect ducks. Every single image i run inference on leaves the algoritm sure that the image is not_duck.
+Unfortunately, after 4 project restarts, I still could not get my project to detect ducks. Every single image I run inference on leaves the algorithm sure that the image is not_duck.
 
 ## Running this project
 
