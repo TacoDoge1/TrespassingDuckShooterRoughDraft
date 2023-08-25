@@ -1,6 +1,6 @@
 # Trespassing Duck Shooter
 
-I wanted this project to be part of a broader project to detect ducks who use my pool as a toilet and squirt them with a water cannon to scare them away. This project attemps to detect images of ducks. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle, and I got images for not_ducks from mini-imagenet on kaggle.
+This project attemps to detect images of ducks. I wanted this project to be part of a broader project to detect ducks who use my pool as a toilet and squirt them with a water cannon to scare them away. It used the resnet18 classification model. I got the images for ducks from an animals set on kaggle, and I got images for not_ducks from mini-imagenet on kaggle.
 
 ![duck](https://github.com/TacoDoge1/TrespassingDuckShooterRoughDraft/assets/142443743/f3464960-d0a6-4b14-89cf-10e3958cd975)
 
