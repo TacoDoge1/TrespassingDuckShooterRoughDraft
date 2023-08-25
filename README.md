@@ -1,12 +1,12 @@
 # Trespassing Duck Shooter
 
-This project attemps to detect ducks
+This project attemps to detect ducks.
 
 ![duck](https://github.com/TacoDoge1/TrespassingDuckShooterRoughDraft/assets/142443743/f3464960-d0a6-4b14-89cf-10e3958cd975)
 
 ## The Algorithm
 
-Although it doesnt work despite 4 project restarts, it does not work. Every single image leaves the algoritm sure that the image is not a duck.
+Despite 4 project restarts, it does not work. Every single image leaves the algoritm sure that the image is not a duck.
 
 ## Running this project
 
